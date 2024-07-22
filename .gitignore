@@ -1,0 +1,13 @@
+# Compiled Python files
+__pycache__/
+*.pytest_cache
+*.pyc
+*.pyo
+
+# Setuptools output
+build/
+dist/
+
+# IDE-specific files (optional)
+.idea/
+.vscode/
